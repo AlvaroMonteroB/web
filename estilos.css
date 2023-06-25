@@ -94,3 +94,21 @@ body {
   width: 30px; /* Ajusta el tamaño del icono según tus necesidades */
   height: 30px;
 }
+
+
+.button {
+  background-color: #4CAF50; /* Color de fondo */
+  border: none; /* Sin borde */
+  color: white; /* Color de texto */
+  padding: 10px 20px; /* Espacio interno */
+  text-align: center; /* Alineación del texto */
+  text-decoration: none; /* Sin decoración de texto */
+  display: inline-block; /* Mostrar como bloque en línea */
+  font-size: 16px; /* Tamaño de fuente */
+  margin: 5px; /* Margen exterior */
+  cursor: pointer; /* Cambiar cursor al pasar por encima */
+}
+
+.button:hover {
+  background-color: #45a049; /* Cambiar color de fondo al pasar por encima */
+}
